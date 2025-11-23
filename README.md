@@ -53,6 +53,12 @@ It evaluates customer trends, operational issues, restaurant performance, and se
 
 ---
 
+## 🔗 **Power BI Report Link**
+👉 **View Interactive Dashboard:** *Add your Power BI link here*  
+`[https://app.powerbi.com/...](https://app.powerbi.com/view?r=eyJrIjoiYmU2Yjk3ZDItYWI0Yy00OTk5LWJhNjUtZjk0ZjliYjJkM2E2IiwidCI6IjEyYzQ1NWU0LWQ1YmUtNDNmNC1hODFkLTA4ZjZiZDhmYzNlYSJ9)`
+
+---
+
 ## **📊 MAIN ANALYSIS OF QUICKBITE**
 
 ### **1. Monthly Orders Trend (Pre-Crisis vs Crisis)**
